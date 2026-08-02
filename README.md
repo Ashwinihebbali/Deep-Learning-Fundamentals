@@ -1,4 +1,4 @@
-# 🚀 PSMS 1.0 Tasks 
+# 🚀 PSMS 1.0 Tasks
 
 Welcome to my **PSMS 1.0 Tasks** repository!
 
