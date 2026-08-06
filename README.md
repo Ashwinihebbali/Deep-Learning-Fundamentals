@@ -1,89 +1,53 @@
-# 🚀 PSMS 1.0 Tasks
+# 🧠 Deep Learning Fundamentals
 
-Welcome to my **PSMS 1.0 Tasks** repository!
+A growing collection of implementations, experiments, and mini-projects exploring the core building blocks of machine learning and deep learning — built through consistent, hands-on practice.
 
-This repository contains all the assignments, practical implementations, and mini-projects completed as part of the **PSMS 1.0 Program**. The tasks are designed to strengthen concepts in **Machine Learning, Artificial Neural Networks (ANN), Deep Learning, Python Programming, and Data Analysis** through hands-on implementation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📌 Repository Objectives
+---
 
-- Practice Machine Learning and Deep Learning concepts.
-- Implement Artificial Neural Network (ANN) models.
-- Perform data preprocessing and model evaluation.
-- Experiment with hyperparameter tuning.
-- Build practical Python-based AI applications.
-- Document learning through assignments and mini-projects.
+## 🌍 Why Deep Learning
 
-## 🛠️ Technologies Used
+Deep learning underpins most of the AI systems shaping industries today — from computer vision and speech processing to healthcare diagnostics and recommendation engines. Understanding it at a fundamental level — how networks learn, why architecture choices matter, and how design decisions affect real-world performance — is what separates using a model from actually understanding one. This repository exists to build that understanding deliberately, one experiment at a time.
 
-- Python
-- TensorFlow
-- Keras
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+## ⚙️ How This Repository Works
 
-## 📖 Topics Covered
+Each addition to this repository is a self-contained notebook or mini-project that isolates a specific concept — an architecture, a hyperparameter, an optimization technique — and studies its effect through direct experimentation rather than theory alone. The goal is a working, practical intuition for *why* deep learning models behave the way they do, built incrementally as new topics are explored.
 
-- Artificial Neural Networks (ANN)
-- Machine Learning
-- Deep Learning
-- Data Preprocessing
-- Feature Engineering
-- Hyperparameter Tuning
-- Model Evaluation
-- Classification Algorithms
-- Neural Network Optimization
-- Python Programming
+## 🎯 Objective
 
-## 📊 Major Experiments
+- Build a strong, practical foundation in machine learning and deep learning
+- Understand the impact of architectural and hyperparameter choices through direct experimentation
+- Translate theoretical concepts into working, evaluable implementations
+- Progress from fundamentals toward applied, real-world AI systems
 
-- Hidden Layer Analysis
-- Neuron Comparison
-- Activation Function Comparison
-- Weight Initializer Comparison
-- Optimizer Comparison
-- Epoch Analysis
-- Batch Size Comparison
-- ANN Performance Improvement
-- Final ANN Evaluation
+## 🔭 Vision
 
-## 📁 Contents
+To evolve this repository into a comprehensive, well-documented reference of deep learning concepts and applications — spanning ANN, CNN, RNN/LSTM, transfer learning, and NLP — reflecting a continuous, structured journey from fundamentals to deployable AI systems.
 
-Each task may include:
+## 📚 Core Areas Explored
 
-- 📓 Jupyter Notebook (`.ipynb`)
-- 🐍 Python Source Code (`.py`)
-- 📄 Report
-- 📊 Output Graphs
-- 📈 Performance Comparison Tables
-- 📚 Documentation
+- Artificial neural network design and training
+- Data preprocessing and feature engineering
+- Activation functions, weight initialization, and optimizers
+- Hyperparameter tuning and model evaluation
+- Convolutional neural networks and image classification
+- Transfer learning with pretrained architectures
 
-## 🎯 Learning Outcomes
+## 🛣️ Roadmap
 
-Through these tasks, I gained practical experience in:
+- [ ] RNN and LSTM implementations
+- [ ] NLP applications
+- [ ] Model deployment (Flask / Streamlit)
+- [ ] Expanded real-world applied projects
 
-- Designing Artificial Neural Networks
-- Selecting suitable activation functions
-- Choosing optimal optimizers
-- Hyperparameter tuning
-- Preventing overfitting
-- Evaluating machine learning models
-- Improving ANN performance
-- Building end-to-end AI models
+---
 
-## 📌 Future Enhancements
-
-- Add CNN Projects
-- Add RNN & LSTM Projects
-- Build NLP Applications
-- Implement Transfer Learning
-- Deploy Models using Flask/Streamlit
-- Add Real-world AI Projects
-
-## ⭐ Support
-
-If you found this repository helpful, consider giving it a ⭐ on GitHub!
-
-Happy Coding! 🚀
+*This repository is updated continuously as new concepts are studied and implemented.*
