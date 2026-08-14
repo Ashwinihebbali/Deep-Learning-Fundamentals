@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Fundamentals                          
+# 🧠 Deep Learning Fundamentals                           
  
 A growing collection of implementations, experiments, and mini-projects exploring the core building blocks of machine learning and deep learning — built through consistent, hands-on practice.
 
